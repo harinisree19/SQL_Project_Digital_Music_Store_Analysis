@@ -1,12 +1,10 @@
 # SQL_Project_Digital_Music_Store_Analysis
 
-SQL project to analyze online music store data
+• Utilized MySQL to analyze an online music store's playlist database,focusing on understanding business growth. The project involved examining the dataset to answer key questions and provide insights into the store's performance. 
 
-Tool - MYSQL 
+Ideal for beginners, it demonstrates fundamental SQL skills and data analysis technique.
 
 Refer Schema for Better Understanding
-
-This project is for beginners and will teach you how to analyze the music playlist database. You can examine the dataset with SQL and help the store understand its business growth by answering simple questions.
 
 Thank You !
 
